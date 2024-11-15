@@ -10,8 +10,8 @@ a predesigned skin, skin FLV Playback Custom UI components individually, or
 create a new skin. You can also use FLVPlayback properties to modify the
 behavior of a skin.
 
-Note: You must upload your skin SWF file to the web server along with your
-application SWF file for the skin to work with your FLVPlayback component.
+> **Note:** You must upload your skin SWF file to the web server along with your
+> application SWF file for the skin to work with your FLVPlayback component.
 
 - [Select a predesigned skin](./select-a-predesigned-skin.md)
 - [Skin FLV Playback Custom UI components individually](./skin-flv-playback-custom-ui-components-individually.md)

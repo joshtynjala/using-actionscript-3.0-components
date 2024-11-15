@@ -37,12 +37,12 @@ following keys to control it:
 | Shift             | Allows for contiguous selection.                                                     |
 | Up Arrow          | Selection moves up one item.                                                         |
 
-Note: Note that scroll sizes are in pixels and not rows.
+> **Note:** Note that scroll sizes are in pixels and not rows.
 
-Note: The page size used by the Page Up and Page Down keys is one less than the
-number of items that fit in the display. For example, paging down through a
-ten-line drop-down list shows items 0-9, 9-18, 18-27, and so on, with one item
-overlapping per page.
+> **Note:** The page size used by the Page Up and Page Down keys is one less
+> than the number of items that fit in the display. For example, paging down
+> through a ten-line drop-down list shows items 0-9, 9-18, 18-27, and so on,
+> with one item overlapping per page.
 
 For more information about controlling focus, see the IFocusManager interface
 and the FocusManager class in the

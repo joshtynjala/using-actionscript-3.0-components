@@ -79,6 +79,6 @@ needed, and subclass easily to extend components.
 For more information, see the
 [ActionScript 3.0 Reference for the Adobe Flash Platform](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html).
 
-Note: Flash CS5 supports both FLA-based and SWC-based components. For more
-information, see
-[Component architecture](../working-with-components/component-architecture.md).
+> **Note:** Flash CS5 supports both FLA-based and SWC-based components. For more
+> information, see
+> [Component architecture](../working-with-components/component-architecture.md).

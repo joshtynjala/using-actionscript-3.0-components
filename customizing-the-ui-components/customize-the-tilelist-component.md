@@ -52,8 +52,8 @@ skin. You can edit these skins to change the TileList's appearance:
 
 <caption>TileList skins</caption>
 
-Note: Changing the ScrollBar skin in one component will change it in all other
-components that use the ScrollBar.
+> **Note:** Changing the ScrollBar skin in one component will change it in all
+> other components that use the ScrollBar.
 
 The following procedure changes the color of the TileList's CellRenderer
 Selected_Up skin.

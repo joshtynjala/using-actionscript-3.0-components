@@ -30,16 +30,16 @@ includes classes on which all components are based, skins and styles that allow
 you to customize appearance, an event-handling model, focus management, an
 accessibility interface, and more.
 
-Note: Adobe Flash CS5 includes ActionScript 2.0 components as well as
-ActionScript 3.0 components. You cannot mix these two sets of components. You
-must use one set or the other for a given application. Flash CS5 presents either
-ActionScript 2.0 components or ActionScript 3.0 components based on whether you
-open an ActionScript 2.0 or an ActionScript 3.0 file. When you create a new
-Flash document, you must specify either Flash File (ActionScript 3.0) or Flash
-File (ActionScript 2.0). When you open an existing document, Flash examines the
-Publish Settings to determine which set of components to use. For information
-about ActionScript 2.0 components, see Using Adobe® ActionScript® 2.0
-Components.
+> **Note:** Adobe Flash CS5 includes ActionScript 2.0 components as well as
+> ActionScript 3.0 components. You cannot mix these two sets of components. You
+> must use one set or the other for a given application. Flash CS5 presents
+> either ActionScript 2.0 components or ActionScript 3.0 components based on
+> whether you open an ActionScript 2.0 or an ActionScript 3.0 file. When you
+> create a new Flash document, you must specify either Flash File (ActionScript
+> 3.0) or Flash File (ActionScript 2.0). When you open an existing document,
+> Flash examines the Publish Settings to determine which set of components to
+> use. For information about ActionScript 2.0 components, see Using Adobe®
+> ActionScript® 2.0 Components.
 
 For a complete list of the Flash ActionScript 3.0 components, see
 [Component types](./component-types.md).

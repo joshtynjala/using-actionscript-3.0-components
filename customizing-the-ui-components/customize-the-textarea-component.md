@@ -52,8 +52,8 @@ its appearance.
 
 <caption>TextArea skins</caption>
 
-Note: Changing the ScrollBar skin in one component will change it for all other
-components that use the ScrollBar.
+> **Note:** Changing the ScrollBar skin in one component will change it for all
+> other components that use the ScrollBar.
 
 The following procedure changes the border colors of the Focus Rect Skin, which
 appears when the TextArea has focus, and the Normal skin.

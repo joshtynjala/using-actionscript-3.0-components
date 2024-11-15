@@ -56,8 +56,8 @@ For more information about skinning the ScrollBar, see
 For information on skinning the Focus Rect skin, see
 [Customize the TextArea component](./customize-the-textarea-component.md)
 
-Note: Changing the ScrollBar skin in one component will change it for all other
-components that use the ScrollBar.
+> **Note:** Changing the ScrollBar skin in one component will change it for all
+> other components that use the ScrollBar.
 
 Double-click the Cell Renderer skin to open a second palette of skins for the
 different states of a List cell.

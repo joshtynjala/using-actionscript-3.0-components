@@ -64,9 +64,9 @@ to access the component's `dataProvider` property.
 You can create a DataProvider by creating the data in an Array or XML object and
 providing the object as the `value` parameter to the DataProvider constructor.
 
-Note: In ActionScript 3.0, you cannot assign an Array or XML object directly to
-a dataProvider property because the property is defined as a DataProvider object
-and can only receive an object of the DataProvider type.
+> **Note:** In ActionScript 3.0, you cannot assign an Array or XML object
+> directly to a dataProvider property because the property is defined as a
+> DataProvider object and can only receive an object of the DataProvider type.
 
 The following example populates a List component, which is a single column of
 rows, with the names of several children and their birthdays. The example

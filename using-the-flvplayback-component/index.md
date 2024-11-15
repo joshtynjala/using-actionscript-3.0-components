@@ -17,8 +17,8 @@ FLVPlayback component by adding support for the high-definition MPEG-4 video
 formats that utilize industry standard H.264 encoding. These formats include
 MP4, M4A, MOV, MP4V, 3GP, and 3G2.
 
-Note: Protected MP4 files—such as those downloaded from Apple® iTunes® or
-digitally encrypted by FairPlay®—are not supported.
+> **Note:** Protected MP4 files—such as those downloaded from Apple® iTunes® or
+> digitally encrypted by FairPlay®—are not supported.
 
 The easy-to-use FLVPlayback component has the following characteristics and
 benefits:

@@ -8,12 +8,12 @@ Transform tool or any of the Modify \> Transform commands. At run time, use the
 `setSize()` method or any applicable properties of the UIScrollBar class such as
 the `width`, `height`, `scaleX`, and `scaleY` properties.
 
-Note: If you use the `setSize()` method, you can change only the width of a
-horizontal scroll bar or the height of a vertical scroll bar. At the time of
-authoring you can set the height of a horizontal scroll bar or the width of a
-vertical scroll bar, but the values will be reset when the movie is published.
-Only the dimension of a scroll bar that corresponds to its length can be
-changed.
+> **Note:** If you use the `setSize()` method, you can change only the width of
+> a horizontal scroll bar or the height of a vertical scroll bar. At the time of
+> authoring you can set the height of a horizontal scroll bar or the width of a
+> vertical scroll bar, but the values will be reset when the movie is published.
+> Only the dimension of a scroll bar that corresponds to its length can be
+> changed.
 
 ## Use styles with the UIScrollBar component
 
@@ -34,8 +34,8 @@ Both horizontal and vertical scroll bars use the same skins; when displaying a
 horizontal scroll bar the UIScrollBar component rotates the skins as
 appropriate.
 
-Note: Changing the ScrollBar skin in one component will change it in all other
-components that use the ScrollBar.
+> **Note:** Changing the ScrollBar skin in one component will change it in all
+> other components that use the ScrollBar.
 
 The following example demonstrates how to change the color of the UIScrollBar's
 thumb and arrow buttons.

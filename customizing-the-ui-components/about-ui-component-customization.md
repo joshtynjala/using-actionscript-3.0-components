@@ -16,7 +16,7 @@ a skin is a graphical element that Flash uses to draw the component. _Skinning_
 is the process of changing a component's appearance by modifying or replacing
 its graphics.
 
-Note: The default appearance of ActionScript 3.0 components could be considered
-a theme (Aeon Halo), but these skins are built into the components. The
-ActionScript 3.0 components do not support the external theme files that
-ActionScript 2.0 components did.
+> **Note:** The default appearance of ActionScript 3.0 components could be
+> considered a theme (Aeon Halo), but these skins are built into the components.
+> The ActionScript 3.0 components do not support the external theme files that
+> ActionScript 2.0 components did.

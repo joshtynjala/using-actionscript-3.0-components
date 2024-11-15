@@ -8,8 +8,8 @@ Components panel.
 
 Flash components are stored in the application-level Configuration folder.
 
-Note: For information about these folders, see "Configuration folders installed
-with Flash" in Using Flash.
+> **Note:** For information about these folders, see "Configuration folders
+> installed with Flash" in Using Flash.
 
 Components are installed in the following locations:
 

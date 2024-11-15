@@ -42,8 +42,8 @@ objects that it contains. You can retrieve an object from the display list by
 calling the `getChildAt()` method and specifying the position, or if you know
 the name of the object, by calling the `getChildByName()` method.
 
-Note: When you add a component with ActionScript, you must assign a name to it's
-name property if you want to access it by name in the display list.
+> **Note:** When you add a component with ActionScript, you must assign a name
+> to it's name property if you want to access it by name in the display list.
 
 The following example displays the names and positions of three components in
 the display list. First, drag a NumericStepper, a Button, and a ComboBox to the

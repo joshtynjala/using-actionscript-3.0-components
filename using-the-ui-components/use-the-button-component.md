@@ -34,8 +34,8 @@ and
 A live preview of each Button instance reflects changes made to parameters in
 the Property inspector or Component inspector during authoring.
 
-Note: If an icon is larger than the button, it extends beyond the button's
-borders.
+> **Note:** If an icon is larger than the button, it extends beyond the button's
+> borders.
 
 To designate a button as the default push button in an application (the button
 that receives the click event when a user presses Enter), set
