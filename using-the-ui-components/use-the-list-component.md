@@ -37,7 +37,7 @@ following keys to control it:
 | Shift             | Allows for contiguous selection.                                                     |
 | Up Arrow          | Selection moves up one item.                                                         |
 
-> **Note:** Note that scroll sizes are in pixels and not rows.
+> **Note:** Scroll sizes are in pixels and not rows.
 
 > **Note:** The page size used by the Page Up and Page Down keys is one less
 > than the number of items that fit in the display. For example, paging down

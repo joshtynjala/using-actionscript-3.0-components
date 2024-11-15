@@ -31,8 +31,8 @@ following statements to your application:
 You enable accessibility for a component only once, regardless of how many
 instances you create.
 
-Note: Enabling accessibility marginally increases file size by including the
-required classes during compilation.
+> **Note:** Enabling accessibility marginally increases file size by including
+> the required classes during compilation.
 
 Most components are also navigable through the keyboard. For more information on
 enabling accessible components and navigating with the keyboard, see the User
